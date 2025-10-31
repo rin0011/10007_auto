@@ -148,6 +148,7 @@ mkdir -p "${tmp_DIR}"
 
 
 local hosts_list='
+https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/master/SMAdHosts
 https://hblock.molinero.dev/hosts|hblock
 https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts|1024
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts|StevenBlack
